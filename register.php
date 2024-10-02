@@ -124,7 +124,6 @@ if (isset($_POST['register'])) {
     <style>
         body {
             background-color: #007bff;
-            /* 60% Blue */
         }
 
         .form-container {
@@ -139,7 +138,6 @@ if (isset($_POST['register'])) {
             text-align: center;
             margin-bottom: 30px;
             color: #fd7e14;
-            /* 10% Orange */
         }
 
         .error {
@@ -149,12 +147,10 @@ if (isset($_POST['register'])) {
 
         .form-control {
             border: 1px solid #28a745;
-            /* 30% Green */
         }
 
         .form-container input[type="submit"] {
             background-color: #fd7e14;
-            /* 10% Orange */
             color: white;
             border: none;
             width: 100%;
@@ -172,7 +168,6 @@ if (isset($_POST['register'])) {
         .form-container input[type="text"],
         .form-container input[type="password"] {
             border: 1px solid #28a745;
-            /* 30% Green */
         }
 
         .form-container select:focus,

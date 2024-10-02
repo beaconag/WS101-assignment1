@@ -13,7 +13,7 @@ session_start();
     <style>
         body {
             background-color: #007bff;
-            /* 60% Blue */
+
         }
 
         .info-container {
@@ -28,14 +28,13 @@ session_start();
             text-align: center;
             margin-bottom: 30px;
             color: #fd7e14;
-            /* 10% Orange */
+
         }
 
         .info-item {
             font-size: 1.2em;
             margin-bottom: 10px;
             border-bottom: 2px solid #28a745;
-            /* 30% Green */
             padding-bottom: 10px;
         }
     </style>
